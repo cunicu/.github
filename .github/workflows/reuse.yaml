@@ -9,7 +9,7 @@ on:
   workflow_call:
 
 jobs:
-  test:
+  reuse:
     name: REUSE
     runs-on: ubuntu-latest
     steps:
